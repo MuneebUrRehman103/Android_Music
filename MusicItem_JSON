@@ -1,0 +1,26 @@
+{
+Items : [ {
+        "cover_url": "https://bsongs-data.sgp1.cdn.digitaloceanspaces.com/movie_cover/Mindo-Taseeldarni.jpg",
+        "id": 20001,
+        "title": "Mindo Taseeldarni - 2019 (Punjabi Movie)" ,
+	"audio_url": "https://bsongs-data.sgp1.cdn.digitaloceanspaces.com/Best-Songs-data/Pakistani-artist/C/Coke-Studio-Pakistan/Coke-Studio-Pakistan-Season-11-Ep-1-2018/3-S11E01-Rap_Hai_Saara_Bestsongs.pk.mp3" 
+    },
+    {
+        "cover_url": "https://bsongs-data.sgp1.cdn.digitaloceanspaces.com/movie_cover/The-Extraordinary-Journey-Of-The-Fakir-2019.jpg",
+        "id": 19964,
+        "title": "The Extraordinary Journey Of The Fakir - 2019”, 
+	“audio_url": "https://bsongs-data.sgp1.cdn.digitaloceanspaces.com/Best-Songs-data/Pakistani-artist/C/Coke-Studio-Pakistan/Coke-Studio-Pakistan-Season-11-Ep-1-2018/4-S11E01-Main_Irada_Bestsongs.pk.mp3"
+    },
+    {
+        "cover_url": "https://bsongs-data.sgp1.cdn.digitaloceanspaces.com/movie_cover/mr-majnu-2019-Hindi.jpg",
+        "id": 20000,
+        "title": "Mr. Majnu - 2019”,
+	"audio_url": "https://bsongs-data.sgp1.cdn.digitaloceanspaces.com/Best-Songs-data/Pakistani-artist/C/Coke-Studio-Pakistan/Coke-Studio-Pakistan-Season-11-Ep-2-2018/1-S11E02-Runaway_Bestsongs.pk.mp3"
+    },
+    {
+        "cover_url": "https://bsongs-data.sgp1.cdn.digitaloceanspaces.com/movie_cover/Medically-Yourrs-2019-webseries.jpg",
+        "id": 19996,
+        "title": "Medically Yourrs - 2019 (Web Series)”,
+	"audio_url": "https://bsongs-data.sgp1.cdn.digitaloceanspaces.com/Best-Songs-data/Pakistani-artist/C/Coke-Studio-Pakistan/Coke-Studio-Pakistan-Season-11-Ep-2-2018/1-S11E02-Runaway_Bestsongs.pk.mp3"
+    } ]
+}
